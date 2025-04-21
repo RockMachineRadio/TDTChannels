@@ -45,6 +45,13 @@
 | Radio Clásica RNE | [m3u8](https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-clasica/) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | RNEClasica.Radio | - |
 | Dial Baladas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3) | [web](https://play.cadenadial.com/emisora/dialbaladas) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg) | - | - |
 | Dial Latino | [stream](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC) | [web](https://play.cadenadial.com/emisora/diallatino) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg) | - | - |
+| Mariskalrock Radio | [stream](https://stream.rcast.net/m3u/236128) | [web](https://mariskalrock.com/) | [logo](https://cdn-ijfed.nitrocdn.com/DtYdoFkTGLHFYfuSCOprrunYCajuUVPb/assets/images/optimized/rev-6e32f4c/mariskalrock.com/wp-content/themes/mariskalrock/img/backradio.jpg) | - | - |
+| Emisión Pirata | [stream](http://shaincast.caster.fm:15669/listen.mp3?authnd383264ba7a2e4aaf3763dc99fa897cd)| [web](https://elpirata.com/) | [logo](https://elpirata.com/wp-content/themes/yootheme/cache/31/Banner-315ad728.png) | - | - |
+| La Antiradio | [stream](https://stream.zeno.fm/jkjslxjr7sntv) | [web](https://laantiradio.com/) | [logo](https://laantiradio.com/wp-content/uploads/2025/01/la-antiradio-rock.-512jpg.jpg) | - | - |
+| Metaleitor | [m3u8](https://cdnhd.iblups.com/hls/69Zww7n1rK.m3u8) | [web](https://metaleitor.blogspot.com/) | [logo](https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg) | - | - |
+| Depredarock | [stream](https://aacplus.rstreaminghd.com/8036/stream) | [web](https://sites.google.com/view/depredarock/inicio) | [logo](https://lh6.googleusercontent.com/ie_qxoMXROspWazDj7vVbYNO6X5eFb3J78ICHlimVD5B0g3M7L7_vWsPVDP2GvDMnISUzRwnvvNE8grSm0p2KEs=w16383) | - | - |
+| HEAVY METAL MANSION | [stream](https://server10.reliastream.com/proxy/metalprj?mp=/stream) | [web](https://www.metalpr.com/radio.php) | [logo](https://www.metalpr.com/images/logonormal.png) | - | - |
+| Templaria Radio | [stream](https://emisiones.com.uy:8152/enlace) | [web](https://templariaradio.com/) | [logo](https://templariaradio.com/wp-content/uploads/2025/03/cropped-cropped-logotipo-2025-recortado-copia-1.png) | - | - |
 | MDT Radio Remember | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | MDTRadio.Radio | - |
 | MDT Radio Pop Stars | [stream](https://streams1.mdtradio.com:8443/PopStarsFm) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg) | - | - |
 | MDT Radio 80s | [stream](https://streams1.mdtradio.com:8443/MDTradio80) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg) | - | - |
@@ -102,6 +109,8 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| SI F.M. | [stream](https://broadcast.radioponiente.org:8030/;stream.nsv) | [web](https://sifmradio.es/) | [logo](https://sifmradio.es/wp-content/uploads/2021/01/logoemisora-370x370.jpg) | - | - |
+| The Beerman Club | [stream](https://stream-166.zeno.fm/0tycopnkzcqvv) | [web](https://thebeermanclub.com/radio-online) | [logo](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=558,fit=crop/YbN9nXoOXQtzMy6E/beerman-club-radio-logo3-AGB4v8rxbMFzkqa5.png) | - | - |
 | Canal Sur Radio | [mp3](https://rtva-live-radio.flumotion.com/rtva/csr.mp3) | [web](https://www.canalsurmas.es/videos/19988-canal-sur-radio) | [logo](https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200) | CanalSur.Radio | - |
 | Flamenco Radio | [mp3](https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3) | [web](https://www.canalsurmas.es/videos/19987-flamenco-radio) | [logo](https://graph.facebook.com/FlamencoRadio/picture?width=200&height=200) | CanalSurFlamenco.Radio | - |
 | Radio Andalucía Información | [mp3](https://rtva-live-radio.flumotion.com/rtva/rai.mp3) | [web](https://www.canalsurmas.es/videos/37911-rai) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RadioAndaluc%C3%ADaInformaci%C3%B3n.png/240px-RadioAndaluc%C3%ADaInformaci%C3%B3n.png) | RadioAndaluciaInformacion.Radio | - |
@@ -369,6 +378,7 @@
 | - | - | - | - | - | - |
 | CMM Radio | [m3u8](https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/play/en-directo/radio) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | - | - |
 | Radio Nacional Castilla-La Mancha | [stream](https://dispatcher.rndfnk.com/crtve/rne1/clm/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_clm-live/3893547/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
+| Radio Kolor | [stream](https://stream20.usastreams.com/8122/stream) | [web](https://www.radiokolor.es/) | [logo](https://www.radiokolor.es/img/logo.png) | - | - |
 | Radio 5 Castilla-La Mancha | [stream](https://dispatcher.rndfnk.com/crtve/rne5/tol/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_clm-live/3894725/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER 90 Motilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTILLA.mp3) | [web](https://cadenaser.com/radio-90-motilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_90Motilla.Radio | - |
 | SER Albacete | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3) | [web](https://cadenaser.com/radio-albacete/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Albacete.Radio | - |
@@ -675,6 +685,8 @@
 | - | - | - | - | - | - |
 | À Punt FM | [m3u8](https://bcovlive-a.akamaihd.net/0841326767184ef7acc0489071ec64da/eu-central-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/radio) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | - | - |
 | Radio Nacional Comunidad Valenciana | [stream](https://dispatcher.rndfnk.com/crtve/rne1/val/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_val-live/3893537/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
+| Radio Malva | [mp3](http://radiomalva.ddns.net:8000/rmbc.mp3) | [web](https://radiomalva.org/) | [logo](https://radiomalva.org/wp-content/uploads/2022/03/radiomalva-logo-w.jpg) | - | - |
+| Radio Buñol | [mp3](https://relay.stream.enacast-cloud.com:40294/radiobunyolHD.mp3) | [web](https://radiotv.xn--buol-hqa.es/) | [logo](https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png) | - | - |
 | Radio 5 Comunidad Valenciana | [stream](https://dispatcher.rndfnk.com/crtve/rne5/vlc/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_val-live/3894731/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Valencia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_VALENCIA.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Elche | [mp3](https://directo.teleelx.es:8000/radio.mp3) | [web](https://radiomarcaelche.es) | [logo](https://graph.facebook.com/radiomarcaelche/picture?width=200&height=200) | - | - |
@@ -807,6 +819,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| PontevedraViva | [stream](https://server8.emitironline.com:2199/tunein/pontevedra.asx) | [web](https://www.pontevedraviva.com/) | [logo](https://www.pontevedraviva.com/uploads/static/pontevedraviva/logos/logo-squared-200x200.png) | - | - |
 | Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
 | Radio Galega Música | [m3u8](https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/81609-rgmusica) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
 | Son Galicia Radio | [m3u8](https://crtvg-songalicia-hls.flumotion.cloud/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/81610-rsong) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
@@ -1046,6 +1059,8 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| FM SER METAL 99.5 MHZ Argentina | [stream](https://uk14freenew.listen2myradio.com/live.mp3?typeportmount=s1_23863_stream_266735368) | [web](https://fmsermetal.radiostream123.com/) | [logo](https://fmsermetal.radiostream123.com/users.img/3170676/1659721858/icon_thumb_80_1659721858.jpg) | - | - |
+| Rock y Terror Radio Texas | [stream](https://stream.rcast.net/m3u/72564) | [web](https://zeno.fm/radio/rock-y-terror/) | [logo](https://pbs.twimg.com/profile_images/1616586960155418624/6OJ_HUNq_400x400.jpg) | - | - |
 | Radio Exterior | [m3u8](https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-exterior/) | [logo](https://graph.facebook.com/RadioExterior/picture?width=200&height=200) | - | - |
 | RNA Andorra | [m3u8](https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8) | [web](https://www.andorradifusio.ad/endirecte/rna) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
 | AM Andorra | [m3u8](https://live-edge-ams-2.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/am/index.m3u8) | [web](https://www.andorradifusio.ad/endirecte/am) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
